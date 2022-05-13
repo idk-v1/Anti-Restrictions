@@ -12,7 +12,9 @@
 ##### with this modified prefs.js
 ##### Or reinstall some kind of firefox. Make sure to change the proxy setting to automatic or manual if able.
 
-### Ever feel like website backgrounds are restrictive. /s
-#### Type 
+#### Ever feel like website backgrounds are restrictive. /s
+##### Type code below into the dev tools console. 
+#### Amogus everywhere!*
 ```let body = document.querySelector('body');```<br>
 ```body.style.backgroundImage = 'url("https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec")';```
+###### <br><br>*May not be visible on all websites.
