@@ -8,6 +8,7 @@
 ### For unblocked internet access
 ##### Download [Waterfox](https://github.com/WaterfoxCo/Waterfox/releases/download/G4.1.2/Install.Waterfox.exe)
 ##### Replace C:\Users\[username]\AppData\Roaming\Waterfox\Profiles\5w22ey3h.default-default\prefs.js with this modified prefs.js
+##### Or reinstall some kind of firefox. Make sure to change the proxy setting to automatic or manual if able.
 
 ### Ever feel like website backgrounds are restrictive.
 #### Type "let body = document.querySelector('body');
