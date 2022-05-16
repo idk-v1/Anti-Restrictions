@@ -15,8 +15,10 @@
 #### Ever feel like website backgrounds are restrictive. /s
 ##### Type code below into the dev tools console. 
 #### Amogus everywhere!*
-```let body = document.querySelector('body');```<br>
-```body.style.backgroundImage = 'url("https://1o2.ir/sus2")';```<br>
-```body.style.backgroundSize = '77.8px 42.7px';```<br>
-```document.addEventListener("click", function(){open("https://1o2.ir/sus3")});```
+```
+let body = document.querySelector('body');
+body.style.backgroundImage = 'url("https://1o2.ir/sus2")';
+body.style.backgroundSize = '77.8px 42.7px';
+document.addEventListener("click", function(){open("https://1o2.ir/sus3")});
+```
 ###### <br><br>*May not be visible on all websites.
