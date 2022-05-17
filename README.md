@@ -5,6 +5,8 @@
 ##### Drag and drop a .jpg file onto wall.bat or replace it manually and open wall.bat to refresh
 #### WARNING! YOU WILL LOSE THE CURRENT WALLPAPER FILE AND ALL ACTIVE EXPLORER WINDOWS
 
+##### admin.bat will enable installers that need admin permissions to open, but cannot edit program files, or if the installer requests admin permissions instead of windows this will not work.
+
 ### For unblocked internet access
 ##### Download [Waterfox](https://github.com/WaterfoxCo/Waterfox/releases/download/G4.1.2/Install.Waterfox.exe)
 ##### Replace 
